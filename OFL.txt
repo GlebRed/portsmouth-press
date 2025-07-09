@@ -1,0 +1,8 @@
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+Copyright © 2025 Gleb Redko
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at: https://scripts.sil.org/OFL
+
+You are allowed to use, modify and redistribute the font, including for commercial work, as long as the font name is not used for derivatives (unless you rename them).
