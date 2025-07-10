@@ -1,4 +1,8 @@
 # Portsmouth Press
+<p float="left">
+  <img src="img/specimen_cover.png" width="45%" />
+  <img src="img/barrett_press.jpg" width="45%" />
+</p>
 
 Portsmouth Press is an uppercase display typeface created by Gleb Redko in Portsmouth, UK, using vintage wood type blocks from the historic Barrett 1812 letterpress — one of only three known surviving presses of its kind worldwide.
 
